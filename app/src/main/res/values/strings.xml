@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoWayEndlessScroll</string>
+    <string name="no_more_items">No more items</string>
+</resources>

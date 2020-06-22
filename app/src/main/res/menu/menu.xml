@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/endless_bottom"
+        android:title="Bottom" />
+    <item
+        android:id="@+id/endless_top"
+        android:title="Top" />
+    <item
+        android:id="@+id/endless_two_way"
+        android:title="Two Ways" />
+</menu>
